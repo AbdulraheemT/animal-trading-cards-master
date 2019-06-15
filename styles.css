@@ -1,0 +1,42 @@
+/* add your CSS here */
+ul li span {
+font-weight:bold;
+
+}
+li{
+   list-style: none; 
+  
+}
+.fact{
+font-style: italic;
+
+}
+.outbox{
+    
+ display:inline-block;
+ border:1px solid lightgray;
+ width: 320px;
+ max-width: 320px;
+ background-color: #e3f2fd;
+
+}
+.inbox{
+ border:1px solid lightgray;    
+ width: 300px;
+ max-width: 300px;
+ margin: 10px;
+background-color: #64b5f5;
+}
+.inbox2{
+    border:1px;    
+    width: 300px;
+    max-width: 300px;
+    margin: 10px;
+   
+   }
+.box{
+border:1px;
+margin: 10px;
+padding: 0.5em;
+background-color: #448aff;
+}
